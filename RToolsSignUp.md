@@ -11,7 +11,7 @@ Please indicate the slot and the package you wish to present. Please turn in sli
 3. Guannan Liu, sqldf package
 4. Tristan Tran, ggplot2 package
 5. Christopher Hoang, signal processing package
-6. (open)
+6. Joshua Anderson, forcats
 7. (open)
 
 ## 9/30 
