@@ -12,7 +12,7 @@ Please indicate the slot and the package you wish to present. Please turn in sli
 4. Tristan Tran, ggplot2 package
 5. Christopher Hoang, signal processing package
 6. Joshua Anderson, forcats
-7. (open)
+7. Roberto Thomas, "random" package
 
 ## 9/30 
 
