@@ -21,7 +21,7 @@ Please indicate the slot and the package you wish to present. Please turn in sli
 3. Isaac, Survival Analysis
 4. Garret Stemmler, modelr package
 5. Yibo Yuan,R Markdown package
-6. (open)
+6. Jeremy Wayland, Caret
 7. (open)
 
 ## List of Suggested Packages
