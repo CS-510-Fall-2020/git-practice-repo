@@ -23,6 +23,7 @@ Please indicate the slot and the package you wish to present. Please turn in sli
 5. Yibo Yuan,R Markdown package
 6. Jeremy Wayland, Caret
 7. Gregory Albarian, rvest package
+8. Daniel Briseno, MonteCarlo package
 
 ## List of Suggested Packages
 
